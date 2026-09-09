@@ -1,2 +1,2 @@
 # DonateSmarter
-Donate Smarter is a smart donation management platform that connects donors with people in need. Users can donate items, upload photos, manage requests, and track the donation process from request to successful handover. It makes donating simple, organized, and meaningful.
+DonateSmart is a smart resource donation management platform designed to connect donors, NGOs, and beneficiaries efficiently. The platform helps donors contribute useful resources based on actual community needs while enabling NGOs to manage donation requests, track resources, and monitor their impact. By improving transparency, coordination, and resource utilization, DonateSmart aims to reduce wastage and ensure that donations reach the people who need them most.
