@@ -15,8 +15,12 @@ Instead of allowing useful items to go unused or become waste, the platform prov
 The project focuses on:
 
 Making the donation process simple
+
 Collecting organized donor information
+
 Providing item details and images
+
 Validating donation form information
+
 Giving users immediate donation confirmation
 Creating a clean and responsive user experience
