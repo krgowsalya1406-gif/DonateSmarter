@@ -107,9 +107,15 @@ The project demonstrates how web technologies can be used to support social resp
 🔔 Donation Status Updates
 
 📩 Email Confirmation
+
 🗺️ Nearby Donation Centers
+
 🌱 Waste Reduction & Reuse Support
+
 🤝 Community Donation Support
+
 🏆 Donor Recognition
+
 📜 Digital Donation Records
+
 ☁️ Cloud Deployment Support
