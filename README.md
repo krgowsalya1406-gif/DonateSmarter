@@ -35,11 +35,17 @@ DonateSmart provides a simple digital approach to this problem by allowing users
 The project demonstrates how web technologies can be used to support social responsibility while providing a practical and user-friendly digital experience.
 
 # ✨ Feature
+
 👤 Donor Registration
+
 🔐 User Login
+
 📝 Donation Form
+
 🎁 Donate Items
+
 🏷️ Donation Categories
+
 📦 Item Details
 🖼️ Item Image Upload
 📍 Location Details
