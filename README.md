@@ -47,35 +47,65 @@ The project demonstrates how web technologies can be used to support social resp
 🏷️ Donation Categories
 
 📦 Item Details
+
 🖼️ Item Image Upload
+
 📍 Location Details
+
 📞 Donor Contact Details
+
 📧 Email Validation
+
 📱 Phone Number Validation
+
 ✅ Required Field Validation
+
 ⚠️ Error Messages
+
 🔔 Success Notifications
+
 🎉 Donation Success Page
+
 🔄 Form Reset
+
 📋 Donation Summary
+
 🕒 Donation Submission Tracking
+
 📊 Donation History
+
 🔎 Search Donations
+
 🎯 Filter Donations by Category
+
 📍 Location-Based Donations
+
 🤝 Donor–Receiver Matching
+
 🏢 NGO Support
+
 ❤️ Favorite/Save Donations
+
 📱 Mobile Responsive Design
+
 🌙 Dark/Light Mode
+
 🎨 Modern User Interface
+
 ⚡ Interactive JavaScript Components
+
 🐘 PHP Form Processing
+
 🗄️ Database Integration
+
 🔒 Secure Data Handling
+
 📊 Donation Dashboard
+
 📈 Donation Statistics
+
 🔔 Donation Status Updates
+
 📩 Email Confirmation
 🗺️ Nearby Donation Centers
 🌱 Waste Reduction & Reuse Support
