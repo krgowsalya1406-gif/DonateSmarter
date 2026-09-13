@@ -33,3 +33,47 @@ Many useful items are thrown away simply because people do not have an easy way 
 DonateSmart provides a simple digital approach to this problem by allowing users to submit donation information through an organized platform.
 
 The project demonstrates how web technologies can be used to support social responsibility while providing a practical and user-friendly digital experience.
+
+# ✨ Feature
+👤 Donor Registration
+🔐 User Login
+📝 Donation Form
+🎁 Donate Items
+🏷️ Donation Categories
+📦 Item Details
+🖼️ Item Image Upload
+📍 Location Details
+📞 Donor Contact Details
+📧 Email Validation
+📱 Phone Number Validation
+✅ Required Field Validation
+⚠️ Error Messages
+🔔 Success Notifications
+🎉 Donation Success Page
+🔄 Form Reset
+📋 Donation Summary
+🕒 Donation Submission Tracking
+📊 Donation History
+🔎 Search Donations
+🎯 Filter Donations by Category
+📍 Location-Based Donations
+🤝 Donor–Receiver Matching
+🏢 NGO Support
+❤️ Favorite/Save Donations
+📱 Mobile Responsive Design
+🌙 Dark/Light Mode
+🎨 Modern User Interface
+⚡ Interactive JavaScript Components
+🐘 PHP Form Processing
+🗄️ Database Integration
+🔒 Secure Data Handling
+📊 Donation Dashboard
+📈 Donation Statistics
+🔔 Donation Status Updates
+📩 Email Confirmation
+🗺️ Nearby Donation Centers
+🌱 Waste Reduction & Reuse Support
+🤝 Community Donation Support
+🏆 Donor Recognition
+📜 Digital Donation Records
+☁️ Cloud Deployment Support
