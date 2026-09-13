@@ -23,4 +23,13 @@ Providing item details and images
 Validating donation form information
 
 Giving users immediate donation confirmation
+
 Creating a clean and responsive user experience
+
+# 💡 Why DonateSmart?
+
+Many useful items are thrown away simply because people do not have an easy way to donate them.
+
+DonateSmart provides a simple digital approach to this problem by allowing users to submit donation information through an organized platform.
+
+The project demonstrates how web technologies can be used to support social responsibility while providing a practical and user-friendly digital experience.
