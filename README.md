@@ -149,14 +149,14 @@ View and manage your donations, track donation status, and quickly access all Do
 ### 🔐 Donate an item
 DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
 
-![Donate an item(image/donatesmarter.png)
+![Donate an item](image/donateitem.png)
 
 ### 🔐 Available item
 DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
 
-![Available item](image/donatesmarter.png)
+![Available item](image/availableitem.png)
 
 ### 🔐 My Donation
 DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
 
-![My Donation](image/donatesmarter.png)
+![My Donation](image/mydonation.png)
