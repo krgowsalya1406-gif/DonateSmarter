@@ -119,3 +119,19 @@ The project demonstrates how web technologies can be used to support social resp
 📜 Digital Donation Records
 
 ☁️ Cloud Deployment Support
+
+## 🎥 project Demo
+
+
+[Project Demo]()
+
+## 🚀 project Demo
+[Live Demo]()
+
+
+## 📸 Screenshots
+
+### 🔐 Donate Smarter
+A clean and responsive login page that allows users to securely access their Online Job Portal account using their email and password.
+
+![Donate Smarter](image/donatesmarter.png)
