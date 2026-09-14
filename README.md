@@ -132,6 +132,6 @@ The project demonstrates how web technologies can be used to support social resp
 ## 📸 Screenshots
 
 ### 🔐 Donate Smarter
-A clean and responsive login page that allows users to securely access their Online Job Portal account using their email and password.
+DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
 
 ![Donate Smarter](image/donatesmarter.png)
