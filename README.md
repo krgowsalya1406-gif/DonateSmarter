@@ -142,7 +142,7 @@ Create your DonateSmarter account to easily manage your donations and make a pos
 ![Donate Smarter](image/createaccount.png)
 
 ### 🔐 Dashboard
-DonateSmarter is a user-friendly donation platform that helps people donate unused items to those in need. It promotes reuse, reduces waste, and makes the donation process simple and meaningful.
+View and manage your donations, track donation status, and quickly access all DonateSmarter features from one place.
 
 ![Donate Smarter](image/dashboard.png)
 
