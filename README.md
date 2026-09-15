@@ -165,7 +165,7 @@ The Notification System provides real-time updates on donations, requests, picku
 ### 🔐 Comunity Impact
 The Community Impact feature shows how donations support people in need, highlighting lives helped, resources shared, and positive changes created in the community.
 
-![Com](image/imapct.png)
+![Comunity Impact](image/impact.png)
 
 
 ### 🔐 My Donation
