@@ -174,7 +174,7 @@ The Events feature displays upcoming donation drives, community activities, and 
 ![Event](image/event.png)
 
 
-### 🔐 My Donation
-Track the items you have donated and view their donation status in one place.
+### 🔐 Account Setting
+The Account Settings feature allows users to manage their profile, password, notifications, privacy, and account preferences.
 
-![My Donation](image/mydonation.png)
+![Account Setting](image/accountsetting.png)
