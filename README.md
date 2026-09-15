@@ -177,4 +177,4 @@ The Events feature displays upcoming donation drives, community activities, and 
 ### 🔐 Account Setting
 The Account Settings feature allows users to manage their profile, password, notifications, privacy, and account preferences.
 
-![Account Setting](image/accountsetting.png)
+![Account Setting](image/account.png)
