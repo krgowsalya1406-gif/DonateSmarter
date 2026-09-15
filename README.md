@@ -157,7 +157,7 @@ Explore useful donated items available for those who need them.
 ![Available item](image/availableitem.png)
 
 ### 🔐 Notification
-Track the items you have donated and view their donation status in one place.
+The Notification System provides real-time updates on donations, requests, pickups, deliveries, achievements, and urgent needs, keeping users informed and engaged.
 
 ![Notification](image/notification.png)
 
