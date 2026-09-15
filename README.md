@@ -156,6 +156,24 @@ List your unused items and give them a second life by donating them to people in
 Explore useful donated items available for those who need them.
 ![Available item](image/availableitem.png)
 
+### 🔐 Notification
+Track the items you have donated and view their donation status in one place.
+
+![Notification](image/notification.png)
+
+
+### 🔐 My Donation
+Track the items you have donated and view their donation status in one place.
+
+![My Donation](image/mydonation.png)
+
+
+### 🔐 My Donation
+Track the items you have donated and view their donation status in one place.
+
+![My Donation](image/mydonation.png)
+
+
 ### 🔐 My Donation
 Track the items you have donated and view their donation status in one place.
 
