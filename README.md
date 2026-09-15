@@ -168,10 +168,10 @@ The Community Impact feature shows how donations support people in need, highlig
 ![Comunity Impact](image/impact.png)
 
 
-### 🔐 My Donation
-Track the items you have donated and view their donation status in one place.
+### 🔐 Event
+The Events feature displays upcoming donation drives, community activities, and volunteering events, helping users participate and contribute to social causes.
 
-![My Donation](image/mydonation.png)
+![Event](image/event.png)
 
 
 ### 🔐 My Donation
