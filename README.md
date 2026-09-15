@@ -162,10 +162,10 @@ The Notification System provides real-time updates on donations, requests, picku
 ![Notification](image/notification.png)
 
 
-### 🔐 My Donation
-Track the items you have donated and view their donation status in one place.
+### 🔐 Comunity Impact
+The Community Impact feature shows how donations support people in need, highlighting lives helped, resources shared, and positive changes created in the community.
 
-![My Donation](image/mydonation.png)
+![Com](image/comunityimapct.png)
 
 
 ### 🔐 My Donation
