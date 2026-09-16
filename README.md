@@ -180,8 +180,7 @@ The Account Settings feature allows users to manage their profile, password, not
 ![Account Setting](image/account.png)
 
 ### 🔐 Help and support
-The Account Settings feature allows users to manage their profile, password, notifications, privacy, and account preferences.
-
+Get quick assistance whenever you need it. Find answers to common questions, learn how to donate or request resources, and contact our support team for help with any issues.
 ![Help and support](image/help.png)
 
 
