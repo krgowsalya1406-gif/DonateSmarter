@@ -185,7 +185,6 @@ Get quick help with donations, resource requests, account issues, and other supp
 
 
 Donate-Smarter/
-│
 ├── image/
 │   ├── availableItem.png
 │   ├── createaccount.png
@@ -199,25 +198,20 @@ Donate-Smarter/
 │   ├── mydonation.png
 │   ├── notification.png
 │   └── upgrade.png
-│
 ├── index.html
 ├── login.html
 ├── register.html
 ├── dashboard.html
 ├── dashboard.css
 ├── dashboard.js
-│
 ├── donate.html
 ├── donate.css
 ├── donate.js
-│
 ├── available.html
 ├── available.css
 ├── available.js
-│
 ├── mydonation.html
 ├── notification.html
-│
 ├── accountsetting.html
 ├── event.html
 ├── helpandsupport.html
@@ -225,7 +219,3 @@ Donate-Smarter/
 ├── scan.html
 ├── success.html
 └── upgrade.html
-
-
-
-
