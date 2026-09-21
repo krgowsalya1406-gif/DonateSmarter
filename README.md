@@ -229,7 +229,7 @@ Get quick help with donations, resource requests, account issues, and other supp
     └── 🖼️ upgrade.png
 
 
-## 🔮 Future Enhancements
+🔮 Future Enhancements
 🔐 Secure user authentication and authorization
 🗄️ Backend database integration
 📍 Location-based donation discovery
