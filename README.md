@@ -228,8 +228,5 @@ Get quick help with donations, resource requests, account issues, and other supp
     ├── 🖼️ notification.png
     └── 🖼️ upgrade.png
 
-
-
-
-🔮 Future Enhancements
-   
+```
+## 🔮 Future Enhancements
