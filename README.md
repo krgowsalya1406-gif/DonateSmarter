@@ -184,38 +184,46 @@ Get quick help with donations, resource requests, account issues, and other supp
 ![Help and support](image/help.png)
 
 
-Donate-Smarter/
-├── image/
-│   ├── availableItem.png
-│   ├── createaccount.png
-│   ├── dashboard.png
-│   ├── donateitem.png
-│   ├── donatesmarter.png
-│   ├── event.png
-│   ├── help.png
-│   ├── impact.png
-│   ├── login.png
-│   ├── mydonation.png
-│   ├── notification.png
-│   └── upgrade.png
-├── index.html
-├── login.html
-├── register.html
-├── dashboard.html
-├── dashboard.css
-├── dashboard.js
-├── donate.html
-├── donate.css
-├── donate.js
-├── available.html
-├── available.css
-├── available.js
-├── mydonation.html
-├── notification.html
-├── accountsetting.html
-├── event.html
-├── helpandsupport.html
-├── communityimpact.html
-├── scan.html
-├── success.html
-└── upgrade.html
+## 📁 Project Structure
+
+```text
+📁 Donate-Smarter
+│
+├── 📄 index.html
+├── 📄 login.html
+├── 📄 register.html
+├── 📄 dashboard.html
+├── 📄 donate.html
+├── 📄 available.html
+├── 📄 mydonation.html
+├── 📄 notification.html
+├── 📄 accountsetting.html
+├── 📄 event.html
+├── 📄 helpandsupport.html
+├── 📄 communityimpact.html
+├── 📄 scan.html
+├── 📄 success.html
+├── 📄 upgrade.html
+│
+├── 🎨 dashboard.css
+├── 🎨 donate.css
+├── 🎨 available.css
+│
+├── ⚙️ dashboard.js
+├── ⚙️ donate.js
+├── ⚙️ available.js
+│
+└── 📁 image
+    │
+    ├── 🖼️ availableItem.png
+    ├── 🖼️ createaccount.png
+    ├── 🖼️ dashboard.png
+    ├── 🖼️ donateitem.png
+    ├── 🖼️ donatesmarter.png
+    ├── 🖼️ event.png
+    ├── 🖼️ help.png
+    ├── 🖼️ impact.png
+    ├── 🖼️ login.png
+    ├── 🖼️ mydonation.png
+    ├── 🖼️ notification.png
+    └── 🖼️ upgrade.png
