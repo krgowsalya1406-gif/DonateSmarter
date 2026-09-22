@@ -267,7 +267,7 @@ Emergency Donation Requests
 
 Donor and Receiver Profiles
 
-Donation History
+Donation History.
 Fraud Detection and Prevention
 QR-Based Donation Tracking
 Automated Email/SMS Alerts
