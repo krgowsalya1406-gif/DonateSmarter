@@ -239,14 +239,16 @@ Real-Time Notifications
 
 Donation Tracking
 
-NGO Integration
+NGO Integratio
 
 User Verification
 
 Donation Analytics
 
 Impact Calculator
+
 In-App Communication
+
 Online Monetary Donations
 Rewards and Badges
 Mobile Application
