@@ -250,9 +250,13 @@ Impact Calculator
 In-App Communication
 
 Online Monetary Donations
+
 Rewards and Badges
+
 Mobile Application
+
 Volunteer Management
+
 Pickup and Delivery Management
 Smart Donation Recommendations
 Multi-Language Support
