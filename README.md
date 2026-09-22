@@ -230,6 +230,7 @@ Get quick help with donations, resource requests, account issues, and other supp
 
 ```
 ## 🔮 Future Enhancements
+
 AI-Based Donation Matching
 Location-Based Donations
 Real-Time Notifications
