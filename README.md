@@ -258,10 +258,15 @@ Mobile Application
 Volunteer Management
 
 Pickup and Delivery Management
+
 Smart Donation Recommendations
+
 Multi-Language Support
+
 Emergency Donation Requests
+
 Donor and Receiver Profiles
+
 Donation History
 Fraud Detection and Prevention
 QR-Based Donation Tracking
