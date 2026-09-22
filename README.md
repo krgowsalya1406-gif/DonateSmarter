@@ -240,8 +240,11 @@ Real-Time Notifications
 Donation Tracking
 
 NGO Integration
+
 User Verification
+
 Donation Analytics
+
 Impact Calculator
 In-App Communication
 Online Monetary Donations
